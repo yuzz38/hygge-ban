@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# AI / answer engines
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: YandexAdditional
+Allow: /
+
+Host: https://hyggebarn.ru
+Sitemap: https://hyggebarn.ru/sitemap.xml
